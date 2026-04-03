@@ -139,30 +139,6 @@ Gemini provided actionable, domain-specific feedback that would typically requir
 
 ---
 
-## 📤 How to Submit
-
-### Option 1: Submit the Markdown File (Recommended)
-Simply submit **ASSIGNMENT_REPORT_COMPLETE.md**
-
-It's well-formatted, readable, and contains everything required.
-
-### Option 2: Convert to PDF
-```bash
-# Using pandoc (if installed):
-pandoc ASSIGNMENT_REPORT_COMPLETE.md -o ASSIGNMENT_REPORT.pdf
-
-# Or use online converter:
-# https://www.markdowntopdf.com/
-```
-
-### Option 3: Submit Multiple Files
-Create a ZIP containing:
-- `ASSIGNMENT_REPORT_COMPLETE.md` (main deliverable)
-- `code_review_results.json` (evidence)
-- `gemini_code_review.py` (automation script)
-
----
-
 ## 📈 Assignment Statistics
 
 - **Total Reviews**: 8 comprehensive reviews
