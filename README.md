@@ -44,7 +44,7 @@ The automation script that executed the 8 comprehensive code reviews.
 ### create_complete_report.py (21KB)
 Report generation script that creates ASSIGNMENT_REPORT_COMPLETE.md from the raw review data.
 
-**To regenerate report**: `python3 create_complete_report.py`
+**To generate report**: `python3 create_complete_report.py`
 
 ---
 
