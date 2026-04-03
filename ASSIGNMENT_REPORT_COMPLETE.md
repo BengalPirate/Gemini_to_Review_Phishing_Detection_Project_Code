@@ -1,7 +1,7 @@
 # Gemini AI Agent Code Review Assignment
 ## Email Phishing Detection Project Analysis
 
-**Name**: Brandon Newton
+**Name**: Brandon T Newton
 **Course**: INFO SYST & DEVELOP PROJ CSC-595-80
 **Date**: April 02, 2026
 **Project Repository**: https://github.com/BengalPirate/Fraud_detection_Tool
