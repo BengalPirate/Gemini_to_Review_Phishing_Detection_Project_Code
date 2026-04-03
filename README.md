@@ -37,7 +37,7 @@ The automation script that executed the 8 comprehensive code reviews.
 - Handles rate limiting
 - Saves results to JSON
 
-**To re-run**: `python3 gemini_code_review.py`
+**To run**: `python3 gemini_code_review.py`
 
 ---
 
