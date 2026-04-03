@@ -5,6 +5,9 @@
 **Course**: AI Detection
 **Date**: April 02, 2026
 **Project Repository**: https://github.com/BengalPirate/Fraud_detection_Tool
+**Assignment Code & Scripts**: https://github.com/BengalPirate/Gemini_to_Review_Phishing_Detection_Project_Code
+
+> **Note**: The Assignment Code & Scripts repository contains all Python automation scripts used to execute the Gemini AI code review, including `gemini_code_review.py` (review automation), `create_complete_report.py` (report generator), and complete raw JSON outputs from all 8 AI review sessions.
 
 ---
 
