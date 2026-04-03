@@ -114,8 +114,6 @@ Original phishing detection project from Week 6 that was reviewed.
 -  Rationale for each change
 -  3 suggestions disagreed with (with reasoning)
 
-**Expected Grade**: 95-100/100
-
 ---
 
 ##  Key Findings Summary
@@ -201,5 +199,3 @@ python3 create_complete_report.py
 ---
 
 **Questions?** Review ASSIGNMENT_REPORT_COMPLETE.md for comprehensive details.
-
-**Ready to submit!** 
